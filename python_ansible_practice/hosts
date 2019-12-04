@@ -1,0 +1,8 @@
+[db]
+node4
+
+[web]
+node5
+
+[local]
+node2
